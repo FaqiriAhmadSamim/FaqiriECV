@@ -77,10 +77,9 @@ st.write('\n')
 st.subheader("Experience")
 st.write(
     """
-- ✔️ 4 Years ICT Director at MUDL- Afghanistan Government
-- ✔️ 4 Years Web and MIS Manager at MUDH- Afghanistan Government
-- ✔️ Around 1 Year Web and MIS Manager at MUDH- Afghanistan Government
-- ✔️ 2 Years ICT Officer and MIS team member at MUDH- Afghanistan Government 
+- ✔️ 4 Years ICT Director at MUDL- Afghanistan
+- ✔️ 5 Years Web and MIS Manager at MUDH- Afghanistan
+- ✔️ 2 Years IT Officer at MUDH- Afghanistan 
 """
 )
 
